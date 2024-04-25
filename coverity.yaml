@@ -1,6 +1,5 @@
 analyze:
   aggressiveness-level: high
-  location: local
   checkers:
     all: true
     webapp-security:
